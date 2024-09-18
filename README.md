@@ -1,6 +1,9 @@
+Aqui está o README atualizado com seu e-mail e perfil do LinkedIn:
+
+```markdown
 # Clonagem da Página da HBO Max
 
-![HBO Max](https://via.placeholder.com/1200x600?text=HBO+Max+Clone) <!-- Substitua este link pela imagem real do projeto -->
+![HBO Max](https://github.com/seu-usuario/hbo-max-clone/blob/main/imagem-do-projeto.png) <!-- Substitua este link pela imagem real do projeto -->
 
 Este projeto é uma clonagem da página da HBO Max, desenvolvido como parte do curso de CSS da DIO (Digital Innovation One). O objetivo foi criar uma réplica da página utilizando técnicas e conceitos aprendidos durante o curso.
 
@@ -31,13 +34,26 @@ Para visualizar o projeto localmente:
 
 1. **Clone o repositório**:
    ```bash
-
    git clone https://github.com/seu-usuario/hbo-max-clone.git
+   ```
 
-   📬 Contato
+2. **Navegue até o diretório do projeto**:
+   ```bash
+   cd hbo-max-clone
+   ```
+
+3. **Abra o arquivo `index.html` em um navegador de sua escolha.**
+
+## 📄 Licença
+
+Este projeto é fornecido sob a licença [MIT](LICENSE).
+
+## 📬 Contato
+
 Para quaisquer perguntas ou comentários, sinta-se à vontade para entrar em contato:
 
-- **Seu Nome**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/marcelo-lameu-a2b092142/)
+- **LinkedIn**: [Marcelo Lameu](https://www.linkedin.com/in/marcelo-lameu-a2b092142/)
+- **E-mail**: [cellinho35@gmail.com](mailto:cellinho35@gmail.com)
+```
 
-**Seu E-mail**: [contato@meusite.com](cellinho35@gmail.com)
 
