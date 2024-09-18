@@ -31,5 +31,13 @@ Para visualizar o projeto localmente:
 
 1. **Clone o repositório**:
    ```bash
+
    git clone https://github.com/seu-usuario/hbo-max-clone.git
+
+   📬 Contato
+Para quaisquer perguntas ou comentários, sinta-se à vontade para entrar em contato:
+
+- **Seu Nome**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/marcelo-lameu-a2b092142/)
+
+**Seu E-mail**: [contato@meusite.com](cellinho35@gmail.com)
 
