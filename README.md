@@ -2,7 +2,7 @@
 ```markdown
 # Clonagem da Página da HBO Max
 
-![HBO Max]([https://github.com/Lameuu/HBO_MAX/blob/main/assets/images/readme-images/cover-2.png](https://github.com/Lameuu/HBO_MAX/blob/main/assets/images/readme-images/cover-2.png?raw=true)) <!-- Substitua este link pela imagem real do projeto -->
+![HBO Max](https://github.com/Lameuu/HBO_MAX/blob/main/assets/images/readme-images/cover-2.png?raw=true) <!-- Link direto da imagem --> <!-- Substitua este link pela imagem real do projeto -->
 
 
 Este projeto é uma clonagem da página da HBO Max, desenvolvido como parte do curso de CSS da DIO (Digital Innovation One). O objetivo foi criar uma réplica da página utilizando técnicas e conceitos aprendidos durante o curso.
