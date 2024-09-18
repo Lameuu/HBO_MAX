@@ -1,4 +1,3 @@
-Aqui está o README atualizado com seu e-mail e perfil do LinkedIn:
 
 ```markdown
 # Clonagem da Página da HBO Max
