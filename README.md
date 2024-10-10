@@ -26,7 +26,7 @@ O projeto visa reproduzir a interface da página da HBO Max, focando em prática
 
 ## 🤝 Colaboração
 
-A criação deste projeto foi realizada em colaboração com os instrutores do curso de CSS da DIO. Agradecemos pela orientação e suporte fornecidos ao longo do desenvolvimento.
+A criação deste projeto foi realizada em colaboração com os instrutores do curso de CSS da DIO.
 
 ## 🚀 Como Executar
 
